@@ -1,0 +1,17 @@
+.flexx{
+     
+    display: flex; 
+       justify-content: flex-end;
+    width: 100%;
+    margin-right: 20px;
+
+     
+}
+.mm{
+    display: flex;
+    align-items: center;
+    background-color: lightpink;
+}
+p{
+    color: red;
+}
